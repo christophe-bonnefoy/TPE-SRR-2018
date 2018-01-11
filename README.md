@@ -1,4 +1,5 @@
 # TPE-Ascenseur-Spatial
-Sofia's TPE repository
+Space Elevator TPE repository
 
-[Wiki](https://github.com/fdrg/TPE-Ascenseur-Spatial/wiki)
+## Partie calcul: 
+## Documentation: [Wiki](https://github.com/fdrg/TPE-Ascenseur-Spatial/wiki)
