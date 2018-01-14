@@ -6,3 +6,5 @@ Space Elevator TPE repository
 Nous avons crée une page Jupyter qui contient les calculs de l'ascenseur spatial en langage de programmation Python.
 
 ## Documentation: [Wiki](https://github.com/fdrg/TPE-Ascenseur-Spatial/wiki)
+
+## L'équipe:
