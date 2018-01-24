@@ -11,5 +11,5 @@ Nous avons crée une page Jupyter qui contient les calculs de l'ascenseur spatia
 
 ## L'équipe:
 
-[Aide markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
+[Aide markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis)   
 
