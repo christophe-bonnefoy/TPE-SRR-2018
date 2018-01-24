@@ -10,3 +10,6 @@ Nous avons crée une page Jupyter qui contient les calculs de l'ascenseur spatia
 ## Documentation: [Wiki](https://github.com/fdrg/TPE-Ascenseur-Spatial/wiki)
 
 ## L'équipe:
+
+[Aide markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
+
